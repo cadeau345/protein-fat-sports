@@ -50,6 +50,12 @@ function Home() {
           عبدالرحمن محمد عبداللطيف محمد & زياد محمد رأفت صدقي
 
         </p>
+          <p className="text-lg text-gray-700 mb-6">
+
+       
+          عبدالرحمن محمد فتحي & الطاهر سيد احمد
+
+        </p>
 
 
         <p className="max-w-3xl mx-auto text-gray-600 leading-loose">
